@@ -1,0 +1,12 @@
+Index: Gleb.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Gleb.txt b/Gleb.txt
+new file mode 100644
+--- /dev/null	(date 1614614274297)
++++ b/Gleb.txt	(date 1614614274297)
+@@ -0,0 +1,1 @@
++2005
+\ No newline at end of file
